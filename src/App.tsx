@@ -46,7 +46,7 @@ const App = () => {
       >
         <div className="text-center">
           <h1
-            className="text-4xl font-extrabold text-white sm:text-5xl md:text-6xl"
+            className="animate-bounce text-4xl font-extrabold text-white sm:text-5xl md:text-6xl"
           >
             Hello, World! :)
           </h1>
@@ -54,6 +54,7 @@ const App = () => {
             I'm a UI/UX and Product Designer!
           </p>
         </div>
+  
       </div>
     </section>
 
